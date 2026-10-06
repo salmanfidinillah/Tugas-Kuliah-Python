@@ -1,10 +1,14 @@
-# Eksperimen Python: Memahami Pertumbuhan Operasi
+# Tugas Kuliah Python
 
-Tugas Pengantar Kompleksitas Algoritma oleh Salman Fidinillah (NIM 2025061007, Semester 3).
+Eksperimen pertumbuhan jumlah operasi untuk tugas Pengantar Kompleksitas Algoritma.
 
-## Menjalankan program
+Nama: Salman Fidinillah  
+NIM: 2025061007  
+Kelas: Semester 3
 
-Jalankan salah satu file berikut dari terminal pada folder proyek:
+## Program
+
+Jalankan file yang diperlukan dari terminal:
 
 ```powershell
 python percobaan_1_linear.py
@@ -13,11 +17,9 @@ python grafik_pertumbuhan.py
 python grafik_perbandingan.py
 ```
 
-Program grafik memerlukan Matplotlib. Pasang dengan `python -m pip install matplotlib` jika belum tersedia.
+Matplotlib diperlukan untuk menjalankan kedua program grafik.
 
-## Berkas tugas
+## Berkas
 
-- `Worksheet_Eksperimen_Python_Memahami_Pertumbuhan_Operasi.pdf`: worksheet asli.
-- `Laporan_Eksperimen_Pertumbuhan_Salman_Fidinillah.pdf`: laporan terisi dengan jawaban dan screenshot.
-- `gambar/`: screenshot kode dan hasil grafik.
-- `buat_laporan_pdf.py`: skrip untuk membuat ulang laporan PDF; memerlukan PyMuPDF.
+- `Tugas_Eksperimen_Python_Salman_Fidinillah.pdf` — worksheet terisi beserta lampiran screenshot.
+- `gambar/` — screenshot kode dan grafik.

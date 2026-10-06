@@ -23,5 +23,5 @@ Matplotlib diperlukan untuk menjalankan kedua program grafik.
 
 ## Berkas
 
-- `Tugas_Eksperimen_Python_Salman_Fidinillah.pdf` - worksheet terisi dengan screenshot pada bagian terkait.
+- `[Tugas_Eksperimen_Python_Salman_Fidinillah.pdf](https://drive.google.com/file/d/1H3_nt5wsmkNSWsB4AVS6njMsfOIgTP2R/view?usp=sharing)` - worksheet terisi dengan screenshot pada bagian terkait.
 - `gambar/` - screenshot kode dan grafik.

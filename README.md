@@ -1,5 +1,7 @@
 # Tugas Kuliah Python
 
+[Buka file di Google Drive](https://drive.google.com/file/d/1H3_nt5wsmkNSWsB4AVS6njMsfOIgTP2R/view?usp=sharing)
+
 Eksperimen pertumbuhan jumlah operasi untuk tugas Pengantar Kompleksitas Algoritma.
 
 Nama: Salman Fidinillah  
